@@ -3,8 +3,8 @@ Contributors: Surbma
 Donate link: http://surbma.com/
 Tags: gravityforms, gravity forms
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 1.1.1
+Tested up to: 4.1
+Stable tag: 1.1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,9 +12,9 @@ Fix for Gravity Forms tabindex issue, when more than one forms are displaying on
 
 == Description ==
 
-Fix for <a href="http://surbma.hu/go/gravityforms/" target="_blank">Gravity Forms</a> (affiliate link) tabindex issue, when more than one forms are displaying on one page.
+Fix for <a href="http://surbma.com/go/gravityforms/" target="_blank">Gravity Forms</a> (affiliate link) tabindex issue, when more than one forms are displaying on one page.
 
-Original solution from David Smith, [Gravity Wiz](http://gravitywiz.com/fix-gravity-form-tabindex-conflicts/). Thank you!
+Original solution from David Smith, <a href="http://gravitywiz.com/fix-gravity-form-tabindex-conflicts/" target="_blank">Gravity Wiz</a>. Thank you!
 
 == Installation ==
 
@@ -33,6 +33,11 @@ No. It is working only with <a href="http://surbma.hu/go/gravityforms/" target="
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1.2 =
+
+- Fixed urls in description.
+- Checked compatibility with WordPress 4.1.
 
 = 1.1.1 =
 
