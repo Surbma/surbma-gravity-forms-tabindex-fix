@@ -4,13 +4,15 @@ Donate link: http://surbma.com/
 Tags: gravityforms, gravity forms
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Fix for Gravity Forms tabindex issue, when more than one forms are displaying on one page.
 
 == Description ==
+
+IMPORTANT! The latest version of Gravity Forms has a new option to add tabindex to its forms. When you insert a new form in a post or page, you can find this option under the "Advanced Options". There you can give a value to the tabindex, which will fix this issue without my plugin. It means there is no need to use this plugin, if you give this tabindex value to every form on your page. This plugin is still working and it can save you time, so if you want to use it, there is no conflicts or any problem.
 
 Fix for <a href="http://surbma.com/go/gravityforms/" target="_blank">Gravity Forms</a> (affiliate link) tabindex issue, when more than one forms are displaying on one page.
 
@@ -33,6 +35,10 @@ No. It is working only with <a href="http://surbma.hu/go/gravityforms/" target="
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1.3 =
+
+- Updated description: IMPORTANT! The latest version of Gravity Forms has a new option to add tabindex to its forms. When you insert a new form in a post or page, you can find this option under the "Advanced Options". There you can give a value to the tabindex, which will fix this issue without my plugin. It means there is no need to use this plugin, if you give this tabindex value to every form on your page. This plugin is still working and it can save you time, so if you want to use it, there is no conflicts or any problem.
 
 = 1.1.2 =
 
