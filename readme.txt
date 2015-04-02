@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: gravityforms, gravity forms
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +35,11 @@ No. It is working only with <a href="http://surbma.hu/go/gravityforms/" target="
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1.4 =
+
+- Fix localization.
+- Prevent direct access to the plugin.
 
 = 1.1.3 =
 

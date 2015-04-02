@@ -5,7 +5,7 @@ Plugin Name: Surbma - Gravity Forms Tabindex Fix
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: Fix for Gravity Forms tabindex issue, when more than one forms are displaying on one page.
 
-Version: 1.1.3
+Version: 1.1.4
 
 Author: Surbma
 Author URI: http://surbma.com/
@@ -16,11 +16,16 @@ Text Domain: surbma-gravity-forms-tabindex-fix
 Domain Path: /languages/
 */
 
+// Prevent direct access to the plugin
+if ( !defined( 'ABSPATH' ) ) {
+	die( 'Good try! :)' );
+}
+
 // Localization
 function surbma_gravity_forms_tabindex_fix_init() {
-	load_plugin_textdomain( 'surbma-gravity-forms-tabindex-fix', false, dirname( plugin_basename( __FILE__ ) . '/languages/' ) );
+	load_plugin_textdomain( 'surbma-gravity-forms-tabindex-fix', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 }
-add_action( 'init', 'surbma_gravity_forms_tabindex_fix_init' );
+add_action( 'plugins_loaded', 'surbma_gravity_forms_tabindex_fix_init' );
 
 // Fix Gravity Forms Tabindex Conflicts
 // http://gravitywiz.com/fix-gravity-form-tabindex-conflicts/
