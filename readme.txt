@@ -1,9 +1,9 @@
-=== Surbma - Gravity Forms Tabindex Fix ===
+=== Gravity Forms Tabindex Fix ===
 Contributors: Surbma
-Donate link: http://surbma.com/
+Donate link: http://surbma.com/donate/
 Tags: gravityforms, gravity forms
-Requires at least: 3.0
-Tested up to: 4.1
+Requires at least: 4.0
+Tested up to: 4.9
 Stable tag: 1.1.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
