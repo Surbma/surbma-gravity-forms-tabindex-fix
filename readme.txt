@@ -1,4 +1,4 @@
-=== Gravity Forms Tabindex Fix ===
+=== Surbma - Gravity Forms Tabindex Fix ===
 Contributors: Surbma
 Donate link: http://surbma.com/donate/
 Tags: gravityforms, gravity forms
