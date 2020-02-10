@@ -1,14 +1,14 @@
 <?php
 
 /*
-Plugin Name: Surbma - Gravity Forms Tabindex Fix
-Plugin URI: http://surbma.com/wordpress-plugins/
+Plugin Name: Surbma | Gravity Forms Tabindex Fix
+Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Fix for Gravity Forms tabindex issue, when more than one forms are displaying on one page.
 
-Version: 1.1.4
+Version: 2.0
 
 Author: Surbma
-Author URI: http://surbma.com/
+Author URI: https://surbma.com/
 
 License: GPLv2
 
